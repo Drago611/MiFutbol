@@ -1,5 +1,3 @@
-version
-1
 						<tr>
 							<td class="p-0_tp"><a href="https://www.fcf.cat/"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://www.fcf.cat/img/escutbase.png" style="max-width:30px !important;max-height:30px !important;"></a></td>
 							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/">FCF</a></td>
