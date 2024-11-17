@@ -1,0 +1,8 @@
+Para sacar todos los equipos dados de alta para el año de competicion, hay que seguir estos pasos
+
+1. Abrir FCF y buscador de clubs
+2. En Delegacion ir seleccionado zona por zona
+3. Cuando aparezcan los resultados de la zona seleccionada, abrir el Inspeccionar
+4. Buscar donde se muestran los resultados dentro de Inspeccionar
+5. En la etiqueta TBODY click en boton derecho y seleccionar COPY-> Copy OuterHTML
+6. Pegar en el txt
